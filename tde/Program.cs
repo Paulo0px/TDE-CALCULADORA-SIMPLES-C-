@@ -1,14 +1,14 @@
 ﻿
 Console.WriteLine("Digite o primeiro número: ");
-int num1 = Convert.ToInt32(Console.ReadLine());
+double num1 = Convert.ToDouble(Console.ReadLine());
 
 Console.WriteLine("Digite o segundo número: ");
-int num2 = Convert.ToInt32(Console.ReadLine());
+double num2 = Convert.ToDouble(Console.ReadLine());
 
-int soma = num1 + num2;
-int subtracao = num1 - num2;
-int divisao = num1 / num2;
-int multiplicacao = num1 * num2;
+double soma = num1 + num2;
+double subtracao = num1 - num2;
+double divisao = num1 / num2;
+double multiplicacao = num1 * num2;
 
 //usando concatenação
 Console.WriteLine("A soma é: " + soma);

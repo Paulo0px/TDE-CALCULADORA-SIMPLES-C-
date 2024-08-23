@@ -12,3 +12,4 @@ C:\Users\power\OneDrive\Área de Trabalho\ADS\LABORATÓRIO DE PROGRAMAÇÃO\AULA
 C:\Users\power\OneDrive\Área de Trabalho\ADS\LABORATÓRIO DE PROGRAMAÇÃO\AULA 2 - 22.08\TDE CALCULADORA\tde\obj\Debug\net8.0\tde.pdb
 C:\Users\power\OneDrive\Área de Trabalho\ADS\LABORATÓRIO DE PROGRAMAÇÃO\AULA 2 - 22.08\TDE CALCULADORA\tde\obj\Debug\net8.0\tde.genruntimeconfig.cache
 C:\Users\power\OneDrive\Área de Trabalho\ADS\LABORATÓRIO DE PROGRAMAÇÃO\AULA 2 - 22.08\TDE CALCULADORA\tde\obj\Debug\net8.0\ref\tde.dll
+C:\Users\power\OneDrive\Área de Trabalho\ADS\LABORATÓRIO DE PROGRAMAÇÃO\AULA 2 - 22.08\TDE CALCULADORA\tde\obj\Debug\net8.0\tde.sourcelink.json
